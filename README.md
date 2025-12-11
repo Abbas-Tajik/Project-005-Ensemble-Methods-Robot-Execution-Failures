@@ -14,3 +14,11 @@
   performance of each ensemble method. It helped me gain practical experience with combining models to
   achieve more reliable predictions and reinforced my understanding of applied machine learning workflows.
 </p>
+<h3>Acknowledgements</h3>
+<p>
+  This project uses the Robot Execution Failures dataset available from the UCI Machine Learning Repository.
+  The examples draw on standard ensemble-method implementations from scikit-learn, including 
+  RandomForestClassifier, AdaBoostClassifier, and GradientBoostingClassifier.
+  Hyperparameter optimisation methods were informed by official documentation for GridSearchCV, 
+  which shaped the experimental workflow.
+</p>
